@@ -1,0 +1,3 @@
+C:/Users/Yimer/Software Dev/CS1-Pragram4-CustomerLoyalty/cmake-build-debug/CMakeFiles/CS1_Pragram4_CustomerLoyalty.dir
+C:/Users/Yimer/Software Dev/CS1-Pragram4-CustomerLoyalty/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yimer/Software Dev/CS1-Pragram4-CustomerLoyalty/cmake-build-debug/CMakeFiles/rebuild_cache.dir
